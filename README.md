@@ -25,7 +25,7 @@ To collect data from Twitter, we completed the following steps:
     secret.
 3. Use tweepy library in python to access twitter data with the help of authentication
     details we obtained in the last step.
-4. To collect the data in the csv file, run the python file named file1.py in the terminal.
+4. To collect the data in the csv file, run the python file named main.py in the terminal.
 5. Now, the node_relations.csv file consists of a list of followees and their respective
     followers while the nodes.csv file consists only the list of all nodes present in the
     graph.
@@ -36,7 +36,7 @@ To collect data from Twitter, we completed the following steps:
 1. We used the package ’networkx’ to visualize the graph.
 2. We added the directed edges between the nodes using the data present in the csv
     file.
-3. The directed graph will be displayed when file1.py is run in the terminal.
+3. The directed graph will be displayed when main.py is run in the terminal.
 
 
 ![fig1](/images/Figure_1.png)
