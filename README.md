@@ -38,19 +38,23 @@ To collect data from Twitter, we completed the following steps:
     file.
 3. The directed graph will be displayed when file1.py is run in the terminal.
 
+
+![fig1](/images/Figure_1.png)
 ```
 Figure 1: Visualization of the data in the form of a directed graph
 ```
 
 ## IV Network Measures
 
-We have calculated 3 different network measures:
+We have calculated various network measures:
 
-1. Degree Distribution
-2. Average Clustering Coefficient
-3. Closeness Centrality
-4. Page Rank
+* Degree Distribution
+* Average Clustering Coefficient
+* Closeness Centrality
+* Page Rank
 
+
+![fig1](/images/Figure_2.png)
 ```
 Figure 2: Degree Distribution Histogram
 ```
